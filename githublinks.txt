@@ -1,0 +1,58 @@
+GitHub links
+_______________________________
+A.Code Review
+#####################################
+https://github.com/features/code-review/
+
+1.Creating Pull Requests
+https://help.github.com/en/articles/creating-a-pull-request
+
+2.Access on GITHub
+https://help.github.com/en/articles/access-permissions-on-github
+
+3.About comparing branches in pull requests
+https://help.github.com/en/articles/about-comparing-branches-in-pull-requests
+
+4.Resolving a merge conflict on GitHub
+https://help.github.com/en/articles/resolving-a-merge-conflict-on-github
+
+5.Creating and deleting branches within your repository
+https://help.github.com/en/articles/creating-and-deleting-branches-within-your-repository
+
+B.Project Mangaement
+#######################################
+https://github.com/features/project-management/
+
+1.webhooks
+https://developer.github.com/webhooks/
+
+2.help
+https://help.github.com/en#dotcom
+
+3.Managing your work with issues
+https://help.github.com/en/articles/managing-your-work-with-issues
+
+4.Githubpages
+https://pages.github.com/
+
+5.About repository graphs
+https://help.github.com/en/articles/about-repository-graphs
+
+6.Creating Teams
+https://help.github.com/en/enterprise/2.17/admin/user-management/creating-teams
+
+7.About enterprise accounts
+https://help.github.com/en/articles/about-enterprise-accounts
+
+
+enterprise installation
+https://help.github.com/en/enterprise/2.17/admin/installation/configuring-the-github-enterprise-server-appliance
+
+8.Admin
+https://help.github.com/en/enterprise/2.17/admin
+
+https://enterprise.github.com/faq
+
+
+
+
